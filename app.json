@@ -1,0 +1,3 @@
+{
+  "expo":{"name":"Milapp","slug":"milapp","version":"0.2.0","orientation":"portrait","userInterfaceStyle":"dark","splash":{"backgroundColor":"#07111f"},"android":{"package":"com.milapp.messenger"},"ios":{"bundleIdentifier":"com.milapp.messenger"}}
+}
